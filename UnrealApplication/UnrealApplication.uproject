@@ -1,7 +1,3 @@
-{
-	"FileVersion": 3,
-	"EngineAssociation": "4.22",
-	"Category": "",
-	"Description": "",
-	"Enterprise": true
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:effa9c6ee050b939e5c381a6ed6144f0424a71cb3a46508d280d593a060b9ddf
+size 115
