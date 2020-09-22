@@ -2,7 +2,7 @@
 
 Last Updated: 9/22/2020
 
-Formatting (<Action> - <Primary key> - <Secondary key>)
+Formatting (\<Action\> - \<Primary key\> - \<Secondary key\>)
 
 # Keyboard Controls #
 
