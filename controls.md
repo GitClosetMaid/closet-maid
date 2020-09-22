@@ -26,7 +26,7 @@ Formatting (\<Action\> - \<Primary key\> - \<Secondary key\>)
 	- Rotate Selected object Left - E
 	- Rotate Selected object Right - R
 	- Enable/Disable Snapping Mode - G
-	- Open/Close Item Catalog - C
+	- Open Item Catalog - C
 	- Spawn Last Object - P
 	- Toggle HUD - Q
 
