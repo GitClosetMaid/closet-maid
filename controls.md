@@ -6,8 +6,6 @@ Formatting (\<Action\> - \<Primary key\> - \<Secondary key\>)
 
 # Keyboard Controls #
 
-	- Save Planogram into Catalog - Ctrl + S
-
 ## Movement Keys: (Flying/Walking) ##
 	- Forward - W - Up arrow
 	- Backward - S - Down arrow
