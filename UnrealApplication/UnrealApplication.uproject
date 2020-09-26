@@ -2,6 +2,10 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.22",
 	"Category": "",
+<<<<<<< HEAD
 	"Description": "",
 	"Enterprise": true
+=======
+	"Description": ""
+>>>>>>> UI
 }
