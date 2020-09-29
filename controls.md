@@ -29,6 +29,7 @@ Formatting (\<Action\> - \<Primary key\> - \<Secondary key\>)
 	- Open Item Catalog - C
 	- Spawn Last Object - P
 	- Toggle HUD - Q
+	- Pause Menu - Tab
 
 
 
