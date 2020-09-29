@@ -3,5 +3,15 @@
 	"EngineAssociation": "4.22",
 	"Category": "",
 	"Description": "",
-	"Enterprise": true
+	"Enterprise": true,
+	"Modules": [
+		{
+			"Name": "UnrealApplication",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
 }
