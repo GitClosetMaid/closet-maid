@@ -9,5 +9,15 @@
 			"Name": "EditorScriptingUtilities",
 			"Enabled": true
 		}
+	],
+	"Modules": [
+		{
+			"Name": "UnrealApplication",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
 	]
 }
