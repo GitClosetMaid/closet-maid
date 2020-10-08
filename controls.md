@@ -23,13 +23,14 @@ Formatting (\<Action\> - \<Primary key\> - \<Secondary key\>)
 
 ## Interaction Keys: (Flying/Walking) ##
 	- Select/Place - Left mouse button
-	- Rotate Selected object Left - E
-	- Rotate Selected object Right - R
+	- Rotate Selected object Left - R
+	- Rotate Selected object Right - T
 	- Enable/Disable Snapping Mode - G
-	- Open Item Catalog - C
+	- Open Item Catalog - E
 	- Spawn Last Object - P
 	- Toggle HUD - Q
 	- Pause Menu - Tab
+	- Copy Selected Planogram - C
 
 
 
