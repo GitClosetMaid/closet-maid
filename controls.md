@@ -30,7 +30,7 @@ Formatting (\<Action\> - \<Primary key\> - \<Secondary key\>)
 	- Spawn Last Object - P
 	- Toggle HUD - Q
 	- Pause Menu - Tab
-	- Copy Selected Planogram - C
+	- Copy Selected Planogram (Save to Catalog) - C
 
 
 
