@@ -18,8 +18,8 @@ Formatting (\<Action\> - \<Primary key\> - \<Secondary key\>)
 
 ### Flying ###
 	- Enable Flying mode 				- 	Num 2
-	- Translate Up 					- 	Left Shift
-	- Translate Down 				- 	Left Ctrl
+	- Translate Up 					- 	Z
+	- Translate Down 				- 	Left Alt
 
 ## Interaction Keys: (Flying/Walking) ##
 	- Select/Place - Left mouse button
