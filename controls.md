@@ -35,6 +35,7 @@ Formatting (\<Action\> - \<Primary key\> - \<Secondary key\>)
 	- Toggle HUD 					- 	Q
 	- Pause Menu 					- 	Tab
 	- Copy Selected Planogram (Save to Catalog) 	- 	C
+	- View details of current planogram in focus    -       Ctrl + P
 
 
 
