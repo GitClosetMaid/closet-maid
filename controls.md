@@ -36,6 +36,7 @@ Formatting (\<Action\> - \<Primary key\> - \<Secondary key\>)
 	- Pause Menu 					- 	Tab
 	- Copy Selected Planogram (Save to Catalog) 	- 	C
 	- View details of current planogram in focus    -       Ctrl + P
+	- Toggle Tooltips				- 	O
 
 
 
