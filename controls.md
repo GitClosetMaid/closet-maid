@@ -31,7 +31,7 @@ Formatting (\<Action\> - \<Primary key\> - \<Secondary key\>)
 	- Roll selected object Right on the X-axis 	- 	Left Shift + T (Products only)
 	- Enable/Disable Snapping Mode 			- 	G
 	- Open Item Catalog 				- 	E
-	- Spawn Last Object 				- 	F
+	- Spawn Last Object/Delete Selected Object 	- 	F
 	- Toggle HUD 					- 	Q
 	- Pause Menu 					- 	Tab
 	- Copy Selected Planogram (Save to Catalog) 	- 	C
