@@ -1,0 +1,3 @@
+C:\Users\Rapha\Documents\Projects\closet-maid\UnrealApplication\Intermediate\Build\Win64\UE4Editor\Development\UnrealApplication\Definitions.UnrealApplication.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

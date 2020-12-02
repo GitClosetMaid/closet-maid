@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UnrealApplication.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Rapha\Documents\Projects\closet-maid\UnrealApplication\Intermediate\Build\Win64\UnrealApplicationEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Rapha\Documents\Projects\closet-maid\UnrealApplication\Intermediate\Build\Win64\UE4Editor\Development\UnrealApplication\MyBlueprintFunctionLibrary.cpp.obj"
+"C:\Users\Rapha\Documents\Projects\closet-maid\UnrealApplication\Intermediate\Build\Win64\UE4Editor\Development\UnrealApplication\UnrealApplication.cpp.obj"
+"C:\Users\Rapha\Documents\Projects\closet-maid\UnrealApplication\Intermediate\Build\Win64\UE4Editor\Development\UnrealApplication\MyBlueprintFunctionLibrary.gen.cpp.obj"
+"C:\Users\Rapha\Documents\Projects\closet-maid\UnrealApplication\Intermediate\Build\Win64\UE4Editor\Development\UnrealApplication\UnrealApplication.init.gen.cpp.obj"
+"C:\Users\Rapha\Documents\Projects\closet-maid\UnrealApplication\Intermediate\Build\Win64\UE4Editor\Development\UnrealApplication\Default.rc2.res"
+/OUT:"C:\Users\Rapha\Documents\Projects\closet-maid\UnrealApplication\Intermediate\Build\Win64\UE4Editor\Development\UnrealApplication\UE4Editor-UnrealApplication.lib"
+/INCLUDE:IMPLEMENT_MODULE_UnrealApplication

@@ -1,0 +1,3 @@
+C:\Users\Rapha\Documents\Projects\closet-maid\UnrealApplication\Source\UnrealApplication\UnrealApplication.Build.cs
+C:\Users\Rapha\Documents\Projects\closet-maid\UnrealApplication\Source\UnrealApplication.Target.cs
+C:\Users\Rapha\Documents\Projects\closet-maid\UnrealApplication\Source\UnrealApplicationEditor.Target.cs
